@@ -243,3 +243,4 @@ Agent: Absolutely — use 1/2 tsp garlic powder per clove needed...
 ---
 
 *Built with IBM watsonx.ai (Granite) — reducing food waste, one recipe at a time.*
+https://drive.google.com/file/d/1EZql3OZjOU87dFtQK-NZkuQd88Cycy4n/view?usp=sharing
